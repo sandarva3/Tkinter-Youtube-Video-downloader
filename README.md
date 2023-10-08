@@ -2,6 +2,11 @@
 
 This is a simple tkinter program which I created a back in the days, in which you can paste a link of a youtube video to download it.
 
+```diff
+- Note: This only downloads the video on 720P.
+^ Here is my new project from which we can download any resolution that's available(4K, 8K or any).
+```
+
 ## How to Run
 
 To Run this program you'll need:
