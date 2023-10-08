@@ -4,8 +4,7 @@ This is a simple tkinter program which I created a back in the days, in which yo
 
 ```diff
 - Note: This only downloads the video on 720P.
-@@ Here is my new project from which we can download any resolution that's available(4K, 8K or any):
-https://github.com/sandarva3/project-Pencil @@
+@@ Here is my new project from which we can download any resolution that's available(4K, 8K or any): https://github.com/sandarva3/project-Pencil @@
 ```
 
 ## How to Run
